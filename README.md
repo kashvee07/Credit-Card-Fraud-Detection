@@ -28,12 +28,6 @@ Time of transaction had no clear pattern for fraud detection
 
 Features V1–V28 are PCA components and cannot be interpreted directly
 
-🤖 Models Trained
-Model	Accuracy	Precision	Recall	F1 Score	ROC-AUC
-Logistic Regression					
-Random Forest					
-XGBoost					
-
 ✅ Final Model Selection
 Selected Model: XGBoost
 
